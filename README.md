@@ -21,10 +21,22 @@ ratings?
 ---
 
 ## Analysis:
-### Satisfied Customers
+### Restraurants
 
 
-### Neutral or Disatisfied Customers
+
+### Consumer Demographics
+- A majority of the consumers are below 30 years of age
+- A majority of the customers are students
+
+
+
+### Demand & Supply Gaps to Exploit in the Market
+- There is a demand & supply gaps that can be exploited in the market in regards to _Cuisines_.
+- A majority of the consumers prefer _Mexican Cuisine (97)_ while only a _few restaurants (28)_ are offering the cuisine.
+
+
+
 
 
 ---
