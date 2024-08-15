@@ -27,7 +27,10 @@ ratings?
 
 ### Consumer Demographics
 - A majority of the consumers are below 30 years of age
-- A majority of the customers are students
+- A majority of the consumers are students
+- A majority of the consumers reside in the state and city of San Luis Potosi 
+- A majority of the consumers are Medium-budget clients
+
 
 
 
@@ -36,8 +39,9 @@ ratings?
 - A majority of the consumers prefer _Mexican Cuisine (97)_ while only a _few restaurants (28)_ are offering the cuisine.
 
 
-
-
+## Characteristics to look for as a potential invester in a restaurant
+As an invester based on the analysis, the following are some of the characteristics I would look for:
+1. 
 
 ---
 
