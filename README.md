@@ -21,9 +21,10 @@ ratings?
 ---
 
 ## Dashboard:
-
+![](Mexican_Restaurant_Rating_Analysis_Dashboard.jpg)
 
 ---
+
 ## Analysis:
 ### Restraurants
 - The Restaurant with the highest rating average rating is Restaurant Las Mananitas (6).
