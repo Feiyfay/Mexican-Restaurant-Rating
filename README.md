@@ -27,7 +27,8 @@ ratings?
 
 ## Analysis:
 ### Restraurants
-- The Restaurant with the highest rating average rating is Restaurant Las Mananitas (6).
+- The Restaurant with the highest average rating is **Restaurant Las Mananitas** (6).
+- Yes, consumer preference has an effect on rating, we see that Restaurant Las Mananitas offers a majority of the prefered cuisines. 
 
 ### Consumer Demographics
 - A majority of the consumers are in their 20s
